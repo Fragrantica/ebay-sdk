@@ -2,7 +2,7 @@
 namespace DTS\eBaySDK\Browse\Services;
 
 /**
- * Base class for the Browse service.
+ * Base class for the Browse API service.
  */
 class BrowseBaseService extends \DTS\eBaySDK\Services\BaseRestService
 {
